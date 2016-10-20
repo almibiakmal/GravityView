@@ -1,4 +1,5 @@
 <?php
+namespace GravityView;
 /**
  * Plugin Name:       	GravityView
  * Plugin URI:        	https://gravityview.co
